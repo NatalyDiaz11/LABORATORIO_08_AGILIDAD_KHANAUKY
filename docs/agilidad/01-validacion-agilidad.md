@@ -8,6 +8,8 @@ El sistema incluye procesos como el registro de clientes, registro de pedidos, a
 
 Además, durante el desarrollo pueden aparecer cambios en los requisitos, como nuevas validaciones de stock, ajustes en el proceso de atención de pedidos o modificaciones en la gestión de almacén. Un enfoque ágil permite incorporar estos cambios sin tener que rehacer todo el proyecto.
 
+Un ejemplo concreto fue el CR-001 aplicado anteriormente en Khanauky, mediante el cual se incorporó una alerta de stock mínimo. Este cambio requirió actualizar el requisito REQ-003, el caso de uso CU-002, la clase CLS-Stock y las pruebas asociadas, evidenciando la necesidad de adaptar el proyecto durante su desarrollo.
+
 ## Ventajas para Khanauky
 
 - Permite desarrollar las funcionalidades por etapas.
