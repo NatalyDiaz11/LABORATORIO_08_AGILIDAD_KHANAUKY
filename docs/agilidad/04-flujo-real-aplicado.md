@@ -37,13 +37,13 @@ Se define que el sistema debe verificar el stock disponible de cada producto y g
 
 ### 4. Validación
 
-Para comprobar el comportamiento se consideran diferentes situaciones:
+Para comprobar el comportamiento se consideran las siguientes pruebas:
 
-- Stock por encima del mínimo.
-- Stock por debajo del mínimo.
-- Producto sin stock mínimo configurado.
+- PRU-003a: stock por encima o igual al mínimo definido.
+- PRU-003b: stock por debajo del mínimo definido.
+- PRU-003c: producto sin stock mínimo configurado.
 
-Estas situaciones permiten verificar que el sistema responda correctamente en cada caso.
+PRU-003c verifica que, cuando un producto no tiene un stock mínimo configurado, el sistema informe esta condición, permita continuar con la atención del pedido y no genere la alerta.
 
 ### 5. En revisión
 
