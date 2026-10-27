@@ -51,6 +51,17 @@ Al finalizar cada Sprint se revisarán las funcionalidades desarrolladas para co
 
 Si se detectan observaciones, estas podrán incorporarse como nuevas tareas o ajustes dentro del siguiente ciclo de trabajo.
 
+### Definition of Done
+
+Una actividad se considerará terminada cuando cumpla con los siguientes criterios:
+
+- La funcionalidad responde al requisito definido.
+- La documentación relacionada está actualizada.
+- Las pruebas correspondientes están definidas y verificadas.
+- Las observaciones encontradas durante la revisión han sido atendidas.
+- No existen inconsistencias entre requisito, caso de uso, clase y prueba.
+- La actividad ha pasado por revisión antes de moverse a Terminado en el tablero Kanban.
+
 ## Roles propuestos
 
 Para adaptar Scrum al proyecto Khanauky se consideran los siguientes roles:
