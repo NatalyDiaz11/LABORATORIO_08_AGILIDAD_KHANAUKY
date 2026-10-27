@@ -27,15 +27,23 @@ Entre los elementos iniciales se consideran:
 
 ### Sprint
 
-El trabajo podrá organizarse en Sprint cortos. En cada Sprint se seleccionarán las actividades prioritarias del Product Backlog.
+El trabajo se organizará en Sprint de una semana. Cada Sprint tendrá un objetivo específico y seleccionará las actividades prioritarias del Product Backlog.
 
-Por ejemplo, un Sprint puede enfocarse en la gestión de pedidos y stock:
+Para el Sprint propuesto se establece:
+
+**Duración:** 1 semana.
+
+**Objetivo del Sprint:** completar y validar las funcionalidades relacionadas con la atención de pedidos y el control de stock.
+
+Actividades seleccionadas:
 
 - Registrar pedido.
 - Atender pedido.
-- Actualizar stock.
+- Consultar y actualizar stock.
 - Validar stock mínimo.
 - Generar alerta para Almacén.
+
+Al finalizar el Sprint se deberá contar con una entrega verificable de estas funcionalidades.
 
 ### Revisión
 
