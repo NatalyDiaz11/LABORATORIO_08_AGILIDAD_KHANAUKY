@@ -82,6 +82,12 @@ En GitHub Projects se utiliza el tablero Kanban del proyecto Khanauky con cuatro
 
 La funcionalidad "Generar alerta de stock mínimo" se encuentra actualmente en En revisión, representando una actividad que ya fue desarrollada pero que todavía requiere validación antes de pasar a Terminado.
 
+### Evidencia del tablero
+
+La siguiente evidencia muestra la distribución real de actividades en GitHub Projects y la funcionalidad "Generar alerta de stock mínimo" ubicada en el estado En revisión.
+
+[Tablero Kanban de Khanauky](evidencias/kanban-flujo-real.png)
+
 ## Conclusión
 
 El flujo aplicado permite visualizar el avance de una funcionalidad desde su identificación hasta su finalización. Este enfoque facilita controlar el trabajo, detectar observaciones y realizar ajustes antes de considerar una tarea completada.
