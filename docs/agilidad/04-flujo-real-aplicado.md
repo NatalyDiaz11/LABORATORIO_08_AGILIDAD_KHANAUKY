@@ -86,7 +86,7 @@ La funcionalidad "Generar alerta de stock mínimo" se encuentra actualmente en E
 
 La siguiente evidencia muestra la distribución real de actividades en GitHub Projects y la funcionalidad "Generar alerta de stock mínimo" ubicada en el estado En revisión.
 
-[Tablero Kanban de Khanauky](evidencias/kanban-flujo-real.png)
+[Tablero Kanban de Khanauky](evidencias/Kanban_flujo_real.png)
 
 ## Conclusión
 
